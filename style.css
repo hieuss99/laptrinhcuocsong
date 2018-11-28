@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+
+body{
+	background: #320f34 url(2.png) no-repeat center;
+	width: 800px;
+	height: 600px;
+}
+
+#login-form{
+	background: #714c74 url(repeat.png) repeat center;
+	width: 400px;
+	height: 300px;
+	margin: 20px 469px;
+	box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
